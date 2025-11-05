@@ -9,7 +9,7 @@ Frontend:
 cd ecom-frontend
 npm install
 create .env with REACT_APP_API_BASE=http://localhost:4000
-npm start (React app on http://localhost:3000)
+npm start (frontend app on http://localhost:3000)
 
 
 
