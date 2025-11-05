@@ -11,6 +11,9 @@ npm install
 create .env with NEXT_PUBLIC_API_URL=http://localhost:4000
 npm start (frontend app on http://localhost:3000)
 
+Login Credentials: 
+email: admin@mail.com
+password: #A123456
 
 
 ecom-backend/
