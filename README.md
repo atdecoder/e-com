@@ -8,7 +8,7 @@ npm run dev (server runs on http://localhost:4000)
 Frontend:
 cd ecom-frontend
 npm install
-create .env with REACT_APP_API_BASE=http://localhost:4000
+create .env with NEXT_PUBLIC_API_URL=http://localhost:4000
 npm start (frontend app on http://localhost:3000)
 
 
